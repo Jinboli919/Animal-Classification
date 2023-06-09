@@ -1,0 +1,20 @@
+Model: "model"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ vgg19_input (InputLayer)    [(None, None, None, 3)]   0         
+                                                                 
+ vgg19 (Functional)          (None, None, None, 512)   20024384  
+                                                                 
+ dense (Dense)               (None, None, None, 12)    6156      
+                                                                 
+ global_average_pooling2d (G  (None, 12)               0         
+ lobalAveragePooling2D)                                          
+                                                                 
+ dense_1 (Dense)             (None, 12)                156       
+                                                                 
+=================================================================
+Total params: 20,030,696
+Trainable params: 6,312
+Non-trainable params: 20,024,384
+_________________________________________________________________
