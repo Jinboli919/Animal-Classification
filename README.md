@@ -50,4 +50,4 @@ train_cus.py
 2. Testing model to load the model.h5 and obtain result_xlsx and results of list of metrics
 test_cus.py
 ## Report in report folder
-check out our report
+check out the report
