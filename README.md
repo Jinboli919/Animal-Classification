@@ -6,7 +6,6 @@ Image recognition is a popular technology, which can accurately identify the vis
 ### Dataset Description
 The team is going to use the “Animal Image Classification Dataset,” a source from Kaggle, which contains 12 classes of animals and at least 1,200 image files for each class.
 
-## Proposal in Proposal folder
 
 #### Dataset Download
 1. dirtecly download from kaggle: https://www.kaggle.com/datasets/piyushkumar18/animal-image-classification-dataset and then unzip the dataset
